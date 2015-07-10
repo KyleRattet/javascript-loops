@@ -22,3 +22,9 @@
   console.log(i);
   console.log(i);
 }
+
+7. for (var i = 1; i <= 3; i++) {
+ for (var a = 0; a <= 4; a++) {
+   console.log(a);
+ }
+}
