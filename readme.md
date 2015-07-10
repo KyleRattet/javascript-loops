@@ -9,3 +9,12 @@
 3. for (var i = 0; i <=10; i +=2) {
   console.log(i);
 }
+
+4. for (var i = 3; i <=15; i +=3) {
+  console.log(i);
+}
+
+5. for (var i = 9; i >=0; i --) {
+  console.log(i);
+
+  
