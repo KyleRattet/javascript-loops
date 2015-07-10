@@ -1,2 +1,3 @@
-for (var i = 0; i <= 1000; i +=100) {
+for (var i = 1; i <=128; i = i * 2) {
   console.log(i);
+}
