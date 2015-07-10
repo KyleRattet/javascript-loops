@@ -17,4 +17,8 @@
 5. for (var i = 9; i >=0; i --) {
   console.log(i);
 
-  
+6. for (i = 1; i <= 4; i++) {
+  console.log(i);
+  console.log(i);
+  console.log(i);
+}
